@@ -5,7 +5,7 @@
 #include <Update.h>
 #include <ArduinoJson.h>
 
-#define CURRENT_VERSION "0.1.0"
+#define CURRENT_VERSION "0.1.1"
 
 const char* ssid = "KP66";
 const char* password = "25072015";
